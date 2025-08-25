@@ -59,9 +59,6 @@ For production use, additional security measures and access controls should be i
 
 Medical data is stored as a vector<u8> - consider encryption for sensitive data
 
-License
-This project is open source and available under the MIT License.
-
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
