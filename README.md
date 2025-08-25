@@ -27,5 +27,5 @@ Updates the medical data associated with an existing health ID
 
 ## Setup and Deployment
 
-git clone https://github.com/anubhab7105/aptos-digital-health-id.git
+git clone https://github.com/anubhab7105/aptos-digital-health-id.git <br>
 cd aptos-digital-health-id
